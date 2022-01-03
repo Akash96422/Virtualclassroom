@@ -1,1 +1,2 @@
 # Virtualclassroom
+manage all
